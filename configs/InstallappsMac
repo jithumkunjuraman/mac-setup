@@ -1,0 +1,67 @@
+chrome
+vscode
+iterm2
+slack
+brew install --cask notion
+
+
+Install brew : command used
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)" 
+
+
+brew install tmux
+
+
+tfswitch 
+brew install warrensbox/tap/tfswitch
+
+brew install kubectx
+
+brew install curl
+
+brew install terragrunt
+
+
+
+
+brew install fish
+
+brew install jump
+
+brew install --cask google-cloud-sdk
+
+gcloud components update  > need auto approve flag to be set here
+
+gcloud components install gke-gcloud-auth-plugin
+
+brew install kubectl
+
+brew install colima
+
+
+brew install awscli
+
+brew tap hashicorp/tap
+brew install hashicorp/tap/vau
+go install github.com/google/yamlfmt/cmd/yamlfmt@latest
+
+brew install docker
+brew install docker-buildx #needs binary use wget
+brew install docker-compose
+
+brew install kind
+
+brew install okta-aws-cli
+
+
+brew install npm
+npm install -g aws-cdk  
+gcloud components install kubectl
+brew install --cask warp
+
+brew install git-town
+brew install golangci-lint
+brew install gh 
+
+
+
